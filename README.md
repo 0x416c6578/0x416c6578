@@ -1,6 +1,15 @@
 ## Alex (0x416c6578)
-Hi! I'm Alex, a backend software engineer working within the aerospace and navigation domains.
+Hi! I'm Alex, I'm a backend software engineer in the secure aerospace domain.
 
-My experience includes microservice application development in Java (Spring Boot, Reactive programming), cloud development on AWS (including Managed Kubernetes, Managed Apache Kafka and other popular services like S3, EC2 etc.).
+I have a small website [0x416c6578.github.io](https://0x416c6578.github.io) which contains various brain dumps and writeups on stuff I do.
 
-My other interests include hardware hacking, embedded software development, 3D printing and home automation with Home Assistant.
+I have professional experience with the following:
+- Java microservices, Spring Boot + Spring WebFlux
+- OpenAPI
+- AWS
+
+I have non-professional interests including:
+- Hardware hacking, embedded software development
+- Networking (in the computers-taking-to-each-other sense)
+- Running
+- Bouldering
