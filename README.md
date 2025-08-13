@@ -1,5 +1,5 @@
 ## Alex (0x416c6578)
-Hi! I'm Alex, I'm a backend software engineer in the secure aerospace domain.
+Hi! I'm Alex
 
 See [0x416c6578.github.io](https://0x416c6578.github.io) for bits
 
