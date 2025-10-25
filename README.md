@@ -1,7 +1,6 @@
-## Alex (0x416c6578)
-[0x416c6578.github.io](https://0x416c6578.github.io)
-
-## Professional Experience
+Hi! I'm Alex! See my stuff at [0x416c6578.github.io](https://0x416c6578.github.io).
+___
+I have some experience: 
 - Java
   - Spring + Spring Boot
   - Reactive programming, Spring WebFlux
@@ -9,11 +8,12 @@
 - Python
 - AWS
 
-## Interests
+And I have some other technical interests:
 - Golang
 - Hardware hacking, embedded software development
-- Networking (in the computers-taking-to-each-other sense)
 - Home automation (Home Assistant)
+
+And some non-technical stuff:
 - Running
 - Bouldering
 - Badminton
