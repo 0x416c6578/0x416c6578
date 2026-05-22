@@ -1,7 +1,7 @@
 Hi! I'm Alex, I have some stuff you can read at [blog.underwd.net](https://blog.underwd.net)
 
 My current interests are:
-- Scala (currently working through _the red book_ (Functional Programming in Scala)
+- Scala (currently working through _the red book_ (Functional Programming in Scala))
 - Golang
 
 In the future I'd like to learn more about:
